@@ -1,5 +1,7 @@
 # 3DOpenSource Machine Control Software
 
+The software was developed by Andrea Luongo over several years and is also capable of slicing for VPP.
+
 ## Overview
 
 This project is an integrated solution for controlling LPBF (Laser Powder Bed Fusion) machines, offering a combination of slicing capabilities and serial communication with machines. Although active development has been discontinued, it remains a valuable resource for those seeking inspiration for developing their own machine control systems.
